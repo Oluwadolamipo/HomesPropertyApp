@@ -8,6 +8,7 @@ namespace _Gittutorial
         {
             Console.WriteLine("Hello World!");
             Console.WriteLine("Add User authentication feature!");
+            Console.WriteLine("Add logout feature!");
         }
     }
 }
